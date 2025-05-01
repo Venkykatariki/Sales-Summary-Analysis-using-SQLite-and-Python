@@ -25,23 +25,10 @@ This project demonstrates how to generate a basic sales summary from a small SQL
 - pandas
 - matplotlib
 
-## 📝 How to Run
-
-1. Run `create_sales_db.py` to generate the database:
-    ```bash
-    python create_sales_db.py
-    ```
-
-2. Run `sales_summary.py` to generate and save the sales summary chart:
-    ```bash
-    python sales_summary.py
-    ```
-
-Or open `Task7_Sales_Summary.ipynb` in Jupyter Notebook to view everything in one place.
 
 ## 📷 Example Output
 
-![Sales Chart](sales_chart.png)
+![Sales Chart](https://github.com/Venkykatariki/Sales-Summary-Analysis-using-SQLite-and-Python/blob/main/Sales%20Summary%20Analysis%20using%20SQLite%20and%20Python.ipynb)
 
 ---
 
